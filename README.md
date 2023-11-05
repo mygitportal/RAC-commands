@@ -1,1 +1,1 @@
-Some useful command ORACLE database
+some command and default syntx oracle database
